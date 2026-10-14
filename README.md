@@ -150,6 +150,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free tier, Pro
   - **Contact**: https://x.com/copy_ai
 
+- [DetectGPT](https://detectgpt.io) - Free AI checker for ChatGPT, Claude & Gemini text. Paste up to 3,000 words or a page URL and get an AI percentage with highlighted passages. No account needed.
+  - **Tags**: `Free` `AI` `Detector` `Writing` `Productivity`
+  - **Pricing**: Free
+
 - [Jasper](https://www.jasper.ai) - AI writing assistant focused on marketing and business content.
   - **Tags**: `Subscription` `AI` `Writing` `Business`
   - **Pricing**: Paid
